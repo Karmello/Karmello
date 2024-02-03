@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karmello)](https://github.com/karmello/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karmello&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,reviews)](https://github.com/karmello/github-readme-stats)
